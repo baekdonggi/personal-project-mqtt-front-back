@@ -1,0 +1,159 @@
+2022-01-26 09:14:01.949[info] app start
+2022-01-26 09:14:02.479[info] DB connection success
+2022-01-26 09:14:02.498[info] Sequelize sync success
+2022-01-26 09:14:20.001[info] (department.reg.params) {"name":"hong","code":"code"}
+2022-01-26 09:14:20.084[debug] (departmentService.reg) {"id":2,"name":"hong","code":"code","description":null,"updatedAt":"2022-01-26T00:14:20.005Z","createdAt":"2022-01-26T00:14:20.005Z","deletedAt":null}
+2022-01-26 09:14:20.087[info] (department.reg.result) {"id":2,"name":"hong","code":"code","description":null,"updatedAt":"2022-01-26T00:14:20.005Z","createdAt":"2022-01-26T00:14:20.005Z","deletedAt":null}
+2022-01-26 09:15:35.650[info] app start
+2022-01-26 09:15:35.936[info] DB connection success
+2022-01-26 09:15:35.956[info] Sequelize sync success
+2022-01-26 09:18:20.053[info] app start
+2022-01-26 09:18:20.304[info] DB connection success
+2022-01-26 09:18:20.325[info] Sequelize sync success
+2022-01-26 09:18:41.532[info] app start
+2022-01-26 09:18:41.817[info] DB connection success
+2022-01-26 09:18:41.834[info] Sequelize sync success
+2022-01-26 09:19:25.882[info] (department.reg.params) {"name":"hong","code":"code"}
+2022-01-26 09:19:25.975[debug] (departmentService.reg) {"id":3,"name":"hong","code":"code","description":null,"updatedAt":"2022-01-26T00:19:25.887Z","createdAt":"2022-01-26T00:19:25.887Z","deletedAt":null}
+2022-01-26 09:19:25.978[info] (department.reg.result) {"id":3,"name":"hong","code":"code","description":null,"updatedAt":"2022-01-26T00:19:25.887Z","createdAt":"2022-01-26T00:19:25.887Z","deletedAt":null}
+2022-01-26 09:55:35.999[info] (department.list.params) {}
+2022-01-26 09:55:36.117[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"hong","code":"code","description":null,"createdAt":"2022-01-26T00:19:25.887Z","updatedAt":"2022-01-26T00:19:25.887Z","deletedAt":null},{"id":2,"name":"hong","code":"code","description":null,"createdAt":"2022-01-26T00:14:20.005Z","updatedAt":"2022-01-26T00:14:20.005Z","deletedAt":null},{"id":1,"name":"hong","code":"code","description":null,"createdAt":"2022-01-25T02:02:41.108Z","updatedAt":"2022-01-25T02:02:41.108Z","deletedAt":null}]}
+2022-01-26 09:55:36.120[info] (department.list.result) {"count":3,"rows":[{"id":3,"name":"hong","code":"code","description":null,"createdAt":"2022-01-26T00:19:25.887Z","updatedAt":"2022-01-26T00:19:25.887Z","deletedAt":null},{"id":2,"name":"hong","code":"code","description":null,"createdAt":"2022-01-26T00:14:20.005Z","updatedAt":"2022-01-26T00:14:20.005Z","deletedAt":null},{"id":1,"name":"hong","code":"code","description":null,"createdAt":"2022-01-25T02:02:41.108Z","updatedAt":"2022-01-25T02:02:41.108Z","deletedAt":null}]}
+2022-01-26 09:55:57.099[info] (department.list.params) {"name":""}
+2022-01-26 09:55:57.199[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"hong","code":"code","description":null,"createdAt":"2022-01-26T00:19:25.887Z","updatedAt":"2022-01-26T00:19:25.887Z","deletedAt":null},{"id":2,"name":"hong","code":"code","description":null,"createdAt":"2022-01-26T00:14:20.005Z","updatedAt":"2022-01-26T00:14:20.005Z","deletedAt":null},{"id":1,"name":"hong","code":"code","description":null,"createdAt":"2022-01-25T02:02:41.108Z","updatedAt":"2022-01-25T02:02:41.108Z","deletedAt":null}]}
+2022-01-26 09:55:57.201[info] (department.list.result) {"count":3,"rows":[{"id":3,"name":"hong","code":"code","description":null,"createdAt":"2022-01-26T00:19:25.887Z","updatedAt":"2022-01-26T00:19:25.887Z","deletedAt":null},{"id":2,"name":"hong","code":"code","description":null,"createdAt":"2022-01-26T00:14:20.005Z","updatedAt":"2022-01-26T00:14:20.005Z","deletedAt":null},{"id":1,"name":"hong","code":"code","description":null,"createdAt":"2022-01-25T02:02:41.108Z","updatedAt":"2022-01-25T02:02:41.108Z","deletedAt":null}]}
+2022-01-26 09:56:50.107[info] (department.list.params) {"name":""}
+2022-01-26 09:56:50.205[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"hong","code":"code","description":null,"createdAt":"2022-01-26T00:19:25.887Z","updatedAt":"2022-01-26T00:19:25.887Z","deletedAt":null},{"id":2,"name":"hong","code":"code","description":null,"createdAt":"2022-01-26T00:14:20.005Z","updatedAt":"2022-01-26T00:14:20.005Z","deletedAt":null},{"id":1,"name":"hong","code":"code","description":null,"createdAt":"2022-01-25T02:02:41.108Z","updatedAt":"2022-01-25T02:02:41.108Z","deletedAt":null}]}
+2022-01-26 09:56:50.207[info] (department.list.result) {"count":3,"rows":[{"id":3,"name":"hong","code":"code","description":null,"createdAt":"2022-01-26T00:19:25.887Z","updatedAt":"2022-01-26T00:19:25.887Z","deletedAt":null},{"id":2,"name":"hong","code":"code","description":null,"createdAt":"2022-01-26T00:14:20.005Z","updatedAt":"2022-01-26T00:14:20.005Z","deletedAt":null},{"id":1,"name":"hong","code":"code","description":null,"createdAt":"2022-01-25T02:02:41.108Z","updatedAt":"2022-01-25T02:02:41.108Z","deletedAt":null}]}
+2022-01-26 10:26:15.853[info] (department.info.params) {"id":"1"}
+2022-01-26 10:26:15.925[debug] (departmentService.info) {"id":1,"name":"hong","code":"code","description":null,"createdAt":"2022-01-25T02:02:41.108Z","updatedAt":"2022-01-25T02:02:41.108Z","deletedAt":null}
+2022-01-26 10:26:15.928[info] (department.info.result) {"id":1,"name":"hong","code":"code","description":null,"createdAt":"2022-01-25T02:02:41.108Z","updatedAt":"2022-01-25T02:02:41.108Z","deletedAt":null}
+2022-01-26 10:38:51.155[info] (department.update.params) {"id":"1"}
+2022-01-26 10:38:51.233[debug] (departmentService.edit) {"updatedCount":1}
+2022-01-26 10:38:51.237[info] (department.update.result) {"updatedCount":1}
+2022-01-26 10:42:45.413[info] (department.update.params) {"id":"1"}
+2022-01-26 10:42:45.485[debug] (departmentService.edit) {"updatedCount":1}
+2022-01-26 10:42:45.487[info] (department.update.result) {"updatedCount":1}
+2022-01-26 10:43:26.388[info] app start
+2022-01-26 10:43:26.670[info] DB connection success
+2022-01-26 10:43:26.705[info] Sequelize sync success
+2022-01-26 10:53:55.276[info] (department.delete.params) {"id":"1"}
+2022-01-26 10:53:55.359[debug] (departmentService.delete) {"deletedCount":1}
+2022-01-26 10:53:55.360[info] (department.delete.result) {"deletedCount":1}
+2022-01-26 10:54:10.487[info] (department.delete.params) {"id":"1"}
+2022-01-26 10:54:10.562[debug] (departmentService.delete) {"deletedCount":0}
+2022-01-26 10:54:10.564[info] (department.delete.result) {"deletedCount":0}
+2022-01-26 13:07:49.100[info] app start
+2022-01-26 13:07:49.389[info] DB connection success
+2022-01-26 13:07:49.404[info] Sequelize sync success
+2022-01-26 13:08:01.985[info] app start
+2022-01-26 13:08:02.255[info] DB connection success
+2022-01-26 13:08:02.280[info] Sequelize sync success
+2022-01-26 13:08:08.589[info] app start
+2022-01-26 13:08:08.865[info] DB connection success
+2022-01-26 13:08:08.884[info] Sequelize sync success
+2022-01-26 13:43:07.366[info] app start
+2022-01-26 13:43:07.604[info] DB connection success
+2022-01-26 13:43:07.653[info] Sequelize sync success
+2022-01-26 13:47:29.812[info] app start
+2022-01-26 13:47:30.049[info] DB connection success
+2022-01-26 13:47:30.073[info] Sequelize sync success
+2022-01-26 13:49:16.143[info] app start
+2022-01-26 13:49:16.453[info] DB connection success
+2022-01-26 13:49:16.473[info] Sequelize sync success
+2022-01-26 13:49:34.083[info] app start
+2022-01-26 13:49:34.342[info] DB connection success
+2022-01-26 13:49:34.368[info] Sequelize sync success
+2022-01-26 13:49:50.328[info] app start
+2022-01-26 13:49:50.550[info] DB connection success
+2022-01-26 13:49:50.571[info] Sequelize sync success
+2022-01-26 13:52:25.431[info] app start
+2022-01-26 13:52:25.671[info] DB connection success
+2022-01-26 13:52:25.695[info] Sequelize sync success
+2022-01-26 13:52:39.361[info] app start
+2022-01-26 13:52:39.621[info] DB connection success
+2022-01-26 13:52:39.645[info] Sequelize sync success
+2022-01-26 14:07:17.662[info] app start
+2022-01-26 14:07:17.930[info] DB connection success
+2022-01-26 14:07:17.956[info] Sequelize sync success
+2022-01-26 14:07:25.780[info] app start
+2022-01-26 14:07:26.077[info] DB connection success
+2022-01-26 14:07:26.110[info] Sequelize sync success
+2022-01-26 14:14:39.463[info] app start
+2022-01-26 14:14:39.720[info] DB connection success
+2022-01-26 14:14:39.745[info] Sequelize sync success
+2022-01-26 14:14:46.694[info] app start
+2022-01-26 14:14:46.950[info] DB connection success
+2022-01-26 14:14:46.973[info] Sequelize sync success
+2022-01-26 14:15:00.371[info] app start
+2022-01-26 14:15:00.637[info] DB connection success
+2022-01-26 14:15:00.660[info] Sequelize sync success
+2022-01-26 14:15:17.923[info] app start
+2022-01-26 14:15:18.153[info] DB connection success
+2022-01-26 14:15:18.175[info] Sequelize sync success
+2022-01-26 14:21:02.210[info] (user.reg.params) {}
+2022-01-26 14:21:02.212[error] Error: Not allowed null (name, userid, password)
+2022-01-26 14:21:02.220[error] (userService.reg) SequelizeValidationError: notNull Violation: User.userid cannot be null,
+notNull Violation: User.password cannot be null
+2022-01-26 14:21:27.274[info] (department.reg.params) {"name":"hong","code":"code"}
+2022-01-26 14:21:27.357[debug] (departmentService.reg) {"id":4,"name":"hong","code":"code","description":null,"updatedAt":"2022-01-26T05:21:27.277Z","createdAt":"2022-01-26T05:21:27.277Z","deletedAt":null}
+2022-01-26 14:21:27.359[info] (department.reg.result) {"id":4,"name":"hong","code":"code","description":null,"updatedAt":"2022-01-26T05:21:27.277Z","createdAt":"2022-01-26T05:21:27.277Z","deletedAt":null}
+2022-01-26 14:21:37.781[info] (user.reg.params) {}
+2022-01-26 14:21:37.784[error] Error: Not allowed null (name, userid, password)
+2022-01-26 14:21:37.786[error] (userService.reg) SequelizeValidationError: notNull Violation: User.userid cannot be null,
+notNull Violation: User.password cannot be null
+2022-01-26 14:22:03.295[info] (user.reg.params) {}
+2022-01-26 14:22:03.297[error] Error: Not allowed null (name, userid, password)
+2022-01-26 14:22:03.299[error] (userService.reg) SequelizeValidationError: notNull Violation: User.userid cannot be null,
+notNull Violation: User.password cannot be null
+2022-01-26 14:22:04.261[info] (user.reg.params) {}
+2022-01-26 14:22:04.264[error] Error: Not allowed null (name, userid, password)
+2022-01-26 14:22:04.266[error] (userService.reg) SequelizeValidationError: notNull Violation: User.userid cannot be null,
+notNull Violation: User.password cannot be null
+2022-01-26 14:22:44.395[info] (user.reg.params) {}
+2022-01-26 14:22:44.396[error] Error: Not allowed null (name, userid, password)
+2022-01-26 14:22:44.399[error] (userService.reg) SequelizeValidationError: notNull Violation: User.userid cannot be null,
+notNull Violation: User.password cannot be null
+2022-01-26 14:23:54.996[info] (user.reg.params) {}
+2022-01-26 14:23:54.997[error] Error: Not allowed null (name, userid, password)
+2022-01-26 14:23:54.999[error] (userService.reg) SequelizeValidationError: notNull Violation: User.userid cannot be null,
+notNull Violation: User.password cannot be null
+2022-01-26 14:25:15.212[info] (user.reg.params) {}
+2022-01-26 14:25:15.213[error] Error: Not allowed null (name, userid, password)
+2022-01-26 14:25:15.215[error] (userService.reg) SequelizeValidationError: notNull Violation: User.userid cannot be null,
+notNull Violation: User.password cannot be null
+2022-01-26 14:25:16.206[info] (user.reg.params) {}
+2022-01-26 14:25:16.208[error] Error: Not allowed null (name, userid, password)
+2022-01-26 14:25:16.211[error] (userService.reg) SequelizeValidationError: notNull Violation: User.userid cannot be null,
+notNull Violation: User.password cannot be null
+2022-01-26 14:25:17.238[info] (user.reg.params) {}
+2022-01-26 14:25:17.240[error] Error: Not allowed null (name, userid, password)
+2022-01-26 14:25:17.244[error] (userService.reg) SequelizeValidationError: notNull Violation: User.userid cannot be null,
+notNull Violation: User.password cannot be null
+2022-01-26 14:25:18.084[info] (user.reg.params) {}
+2022-01-26 14:25:18.086[error] Error: Not allowed null (name, userid, password)
+2022-01-26 14:25:18.089[error] (userService.reg) SequelizeValidationError: notNull Violation: User.userid cannot be null,
+notNull Violation: User.password cannot be null
+2022-01-26 14:25:26.916[info] (department.reg.params) {"name":"김개발"}
+2022-01-26 14:25:27.002[debug] (departmentService.reg) {"id":5,"name":"김개발","code":null,"description":null,"updatedAt":"2022-01-26T05:25:26.919Z","createdAt":"2022-01-26T05:25:26.919Z","deletedAt":null}
+2022-01-26 14:25:27.007[info] (department.reg.result) {"id":5,"name":"김개발","code":null,"description":null,"updatedAt":"2022-01-26T05:25:26.919Z","createdAt":"2022-01-26T05:25:26.919Z","deletedAt":null}
+2022-01-26 14:25:37.521[info] (user.reg.params) {}
+2022-01-26 14:25:37.522[error] Error: Not allowed null (name, userid, password)
+2022-01-26 14:25:37.524[error] (userService.reg) SequelizeValidationError: notNull Violation: User.userid cannot be null,
+notNull Violation: User.password cannot be null
+2022-01-26 14:25:38.216[info] (user.reg.params) {}
+2022-01-26 14:25:38.219[error] Error: Not allowed null (name, userid, password)
+2022-01-26 14:25:38.221[error] (userService.reg) SequelizeValidationError: notNull Violation: User.userid cannot be null,
+notNull Violation: User.password cannot be null
+2022-01-26 14:26:24.482[info] (user.reg.params) {"departmentId":1,"name":"김개발","userid":"kim","password":"1","role":"member","email":"kim@email.com","phone":"010-1234-5678"}
+2022-01-26 14:26:24.560[debug] (userService.reg) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2022-01-26T05:26:24.484Z","createdAt":"2022-01-26T05:26:24.484Z","updatedPwDate":null,"deletedAt":null}
+2022-01-26 14:26:24.562[info] (user.reg.result) {"id":1,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2022-01-26T05:26:24.484Z","createdAt":"2022-01-26T05:26:24.484Z","updatedPwDate":null,"deletedAt":null}
+2022-01-26 14:27:30.162[info] (department.delete.params) {"id":"5"}
+2022-01-26 14:27:30.242[debug] (departmentService.delete) {"deletedCount":1}
+2022-01-26 14:27:30.245[info] (department.delete.result) {"deletedCount":1}
+2022-01-26 14:27:31.721[info] (department.delete.params) {"id":"5"}
+2022-01-26 14:27:31.725[debug] (departmentService.delete) {"deletedCount":0}
+2022-01-26 14:27:31.726[info] (department.delete.result) {"deletedCount":0}
+2022-01-26 15:30:39.270[info] (user.list.params) {}
+2022-01-26 15:30:39.396[debug] (userService.list) {"count":1,"rows":[{"id":1,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2022-01-26T05:26:24.484Z","updatedAt":"2022-01-26T05:26:24.484Z","deletedAt":null,"Department":null}]}
+2022-01-26 15:30:39.398[info] (user.list.result) {"count":1,"rows":[{"id":1,"departmentId":1,"name":"김개발","userid":"kim","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2022-01-26T05:26:24.484Z","updatedAt":"2022-01-26T05:26:24.484Z","deletedAt":null,"Department":null}]}
