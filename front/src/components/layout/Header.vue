@@ -1,12 +1,12 @@
 <template>
   <div>
     <b-navbar toggleable="lg" type="light" style="border-bottom: 1px solid rgba(0, 0, 0, 0.1)">
-      <b-navbar-brand href="/">VUEPROJ</b-navbar-brand>
+      <b-navbar-brand href="/">백동기</b-navbar-brand>
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
-          <b-nav-item href="#">메뉴1</b-nav-item>
-          <b-nav-item href="#">메뉴2</b-nav-item>
+          <b-nav-item href="#">관리자</b-nav-item>
+          <b-nav-item href="#">사용자</b-nav-item>
         </b-navbar-nav>
 
         <!-- Right aligned nav items -->

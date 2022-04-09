@@ -20,7 +20,7 @@ const simulatorStart = (req, res, next) => {   //
     console.log('connected')
     next()
   })
-  client.subscribe('metacamp/sensor')
+  client.subscribe('tempsensor')
   client.on('message', (topic, message, packet) => {
     console.log(`topic:${topic} message is ` + message)
   } )
@@ -30,7 +30,7 @@ const simulatorStart = (req, res, next) => {   //
       'humidity': (Math.random()*(60-64) + 60).toFixed(2),
       'datetime': new Date()
     }
-    client.publish('metacamp/sensor', JSON.stringify(json))
+    client.publish('tempsensor', JSON.stringify(json))
   }, 1000)
   setTimeout(() => {
     clearInterval(dataPublish)
